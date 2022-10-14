@@ -8,7 +8,7 @@
 ## Inhalt
 
 1. [Struktur](#Struktur)
-2. [Example2](#example2)
+2. [Steuerung](#Steuerung)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 ## Struktur
@@ -55,3 +55,8 @@ Beendet man die Spezialinteraktion, verlässt man diesen Gamestate automatisch.
 ---
 Bisher ist dies Nur der Start-Zustand des Spiels. Nach hochswipen gelangt man in das eigentliche Spiel.
 Dies ist aufgrund einer Browser-Beschränkung, die es vorschreibt, das Sound nur nach einer Erst-Interaktion des Users abgespielt werden darf.
+## Steuerung
+Die bisherige Steuerung basiert auf Swipes/Toucheingaben oder Sprachbefehlen
+
+### Touch-Steuerung
+![App Screenshot](https://i.ibb.co/bJZ1SbK/steuerung-Audiogame.png)
