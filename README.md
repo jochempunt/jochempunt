@@ -26,11 +26,11 @@ Ein ***Gamestate*** ist ein Zustand in welchem sich das Spiel befinden kann.
 
 Die verschiedenen Gamestates sind:
 
-- [PLAYING](####PLAYING)
-- [INVENTORY](####INVENTORY)
-- [CONTAINER](####CONTAINER)
-- [SEARCHING](####SEARCHING)
-- [MENU](####MENU)
+- [PLAYING](#PLAYING)
+- [INVENTORY](#INVENTORY)
+- [CONTAINER](#CONTAINER)
+- [SEARCHING](#SEARCHING)
+- [MENU](#MENU)
 
 #### PLAYING 
 ---
